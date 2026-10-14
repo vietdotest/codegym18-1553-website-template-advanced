@@ -1,0 +1,65 @@
+[
+  {
+    "brokenAnchors": [],
+    "footer": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "images/service1.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "images/service2.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "images/service3.jpg"
+      }
+    ],
+    "main": false,
+    "overflow": false,
+    "width": 375
+  },
+  {
+    "brokenAnchors": [],
+    "footer": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "images/service1.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "images/service2.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "images/service3.jpg"
+      }
+    ],
+    "main": false,
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "brokenAnchors": [],
+    "footer": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "images/service1.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "images/service2.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "images/service3.jpg"
+      }
+    ],
+    "main": false,
+    "overflow": false,
+    "width": 1440
+  }
+]
